@@ -1,0 +1,1 @@
+This is an open source book about entrepreneurship. The goal is to put knowledge together as a community.
