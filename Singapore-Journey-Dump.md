@@ -1,14 +1,5 @@
-Book design:
-
-A) Biblia
-B) Open-source
-C) Open-source and then Bible
-D) Bible and then Open source 
-
 Title:
-Start up (tachado)
-
-Speed up guide
+Speed up guide or something with a Rabbithole
 
 Summary:
 
