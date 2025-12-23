@@ -47,6 +47,7 @@ quickbocks
 Loom
 v0
 Claude
+posthog
 
 Week 2:
 High performers have strong opinios about their tools.
