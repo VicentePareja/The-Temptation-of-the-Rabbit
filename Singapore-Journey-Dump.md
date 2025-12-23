@@ -35,7 +35,7 @@ Hih performance peole and adoption rate in teams culture.
 cal.com
 unified calendar
 Grain
-Bitwaredn
+Bitwareden
 CRM
 Gorgias
 Slack
