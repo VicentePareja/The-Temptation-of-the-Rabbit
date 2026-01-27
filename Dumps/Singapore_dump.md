@@ -1,7 +1,4 @@
-Title:
-Speed up guide or something with a Rabbithole
-
-Summary:
+This is a dump about my learning in my trip to Singapore between July 2025 and December 2025
 
 
 Extra Thoughs:
