@@ -2,7 +2,7 @@
 
 ## Preface
 
-## The moral of the entrepenour.
+## The moral of the entrepreneur.
 
 
 ## Chapter 1
