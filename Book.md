@@ -32,7 +32,7 @@ PD: Obviously, this two figures should be in the abstract, not in the concrete. 
 ## Chapter 2
 ## CEO double click. Agility?
 
-So, as its clear onC Chapter one [link to it] a CEO should try to move fast. But, what does that even mean?
+So, as its clear on Chapter one [link to it] a CEO should try to move fast. But, what does that even mean?
 
 I could send an empty email in like 2 seconds. Is that good? is it bad? I dont know. Is not clear. First, we need to define a previous concept: Vision.
 
@@ -44,4 +44,10 @@ Once our good founder has a clear, not vague, milestone in some time frame. He n
 
 What you want to maximize is: the speed of the rowers and the aligment between them. In a formula could be something close to Speed * Aligment. Its almost as vectors moving your boat. If every vector is pointing randomly you will barely move. On the same way, if every vector is align but they are very small you will go sloowly to your goal. In mathy way of puting it: you want to maximize the sum of the dot products of the vectors with respect to the direction your vision.
 
-This new quantity, we will call it from now on: Agility. (If someone has a better name I am open to it)
+This new quantity, we will call it from now on: Agility. (If someone has a better name I am open to it. I am considering impact too or Impact on the goal)
+
+## Chapter 3
+## Agility and noise.
+
+## Chapter 8
+## How to put names
