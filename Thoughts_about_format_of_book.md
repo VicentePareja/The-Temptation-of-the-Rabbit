@@ -1,5 +1,10 @@
 Chapters?
 
+# Understability
+
+The main goal is to share knoweldge. So, the way its written should avoid unnecesary complecity if needed.
+
+
 # Everything should be linked
 
 There is not a reason to not do it. Its simply better. Like, if you are mentioning a youtuber, just put the channel bro. This wont be printed (at leastttt til a year). So, lets make good use of tech please.

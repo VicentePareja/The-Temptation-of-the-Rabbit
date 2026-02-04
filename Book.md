@@ -47,7 +47,13 @@ What you want to maximize is: the speed of the rowers and the aligment between t
 This new quantity, we will call it from now on: Agility. (If someone has a better name I am open to it. I am considering impact too or Impact on the goal)
 
 ## Chapter 3
-## Agility and noise.
+## Agility's worst enemy: Democracy.
+
+Imagine you own a factory. And a client wants a 10% discount. Should you stop all the factory lines to ask everyone on everyline what should we do about it? Or, even further, after they give their oponion about the subject, should we all talk about it untill we have a full concensus?
+
+Parlaments are slow. And they are for design. They cannot be fast, they will never be. Even if you had the full roaster of F1 drivers up ther it will still take years for them to aprove a law of cibersecurity. Lets avoid parlaments shall we? I rather take random decisions than a parlament. Because then, at least I know we will do SOMETHING about the fire in the house. Do you think you dont have a fire in the house? You are a founder bro, you always will.
+
+
 
 ## Chapter 8
 ## How to put names
