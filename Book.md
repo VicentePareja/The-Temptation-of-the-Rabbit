@@ -6,7 +6,7 @@
 
 
 
-## Chapter 1
+### Chapter 1
 ## The war of the Chiefs.
 
 What is a Ceo's duty? That is a pretty key question when talking about a start-up. To understand it, we need to talk first about what is a start-up and the role of the Ceo's biggest enemy: His CTO.
@@ -29,7 +29,7 @@ The perfect team works like a beautiful rally car on full speed to win the race.
 
 PD: Obviously, this two figures should be in the abstract, not in the concrete. If you are a solo founder, think of it as two forces inside you. The same for teams of three.You could even be the CTO and work at heart as the accelerar. Etc. 
 
-## Chapter 2
+### Chapter 2
 ## CEO double click. Agility?
 
 So, as its clear on Chapter one [link to it] a CEO should try to move fast. But, what does that even mean?
@@ -46,14 +46,21 @@ What you want to maximize is: the speed of the rowers and the aligment between t
 
 This new quantity, we will call it from now on: Agility. (If someone has a better name I am open to it. I am considering impact too or Impact on the goal)
 
-## Chapter 3
+### Chapter 3
 ## Agility's worst enemy: Democracy.
 
 Imagine you own a factory. And a client wants a 10% discount. Should you stop all the factory lines to ask everyone on everyline what should we do about it? Or, even further, after they give their oponion about the subject, should we all talk about it untill we have a full concensus?
 
 Parlaments are slow. And they are for design. They cannot be fast, they will never be. Even if you had the full roaster of F1 drivers up ther it will still take years for them to aprove a law of cibersecurity. Lets avoid parlaments shall we? I rather take random decisions than a parlament. Because then, at least I know we will do SOMETHING about the fire in the house. Do you think you dont have a fire in the house? You are a founder bro, you always will.
 
+## What about Dictatorship?
 
+So, what about we always do exactly what the founder wants? 
+That is actually slightly better. Until you have a team that is not tiny. Would you ask the CEO of Google if we should repaint the parking lot of the Munich offices? Because the wall's paint is slightly old. Probably not, he may be busy a with a few more urgent topics right? That is a decision a different person should take. 
+
+## Your single most scarse resourse: You.
+
+The single most vauluable resource in every start-up is not its funding, dev team, marketing outbound or prestiege. You can have all the funding in the world at your disposal but if you are sleeping absoluting nothing will move.
 
 ## Chapter 8
 ## How to put names
