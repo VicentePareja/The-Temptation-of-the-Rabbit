@@ -1,19 +1,18 @@
-### The temptation of the rabbit
+# The temptation of the rabbit
 
 ## Preface
 
 ## The moral of the entrepreneur.
 
+## Chapter 1
 
-
-### Chapter 1
-## The war of the Chiefs.
+### The war of the Chiefs.
 
 What is a Ceo's duty? That is a pretty key question when talking about a start-up. To understand it, we need to talk first about what is a start-up and the role of the Ceo's biggest enemy: His CTO.
 
 A start-up is like a bycicle but going down a Mount, the faster the bycicle go, its less likely you are going to fall. At the same time if you crush it will be "worse". The truth of the matter is, if you go slow you are garantee to fall, not even the expert cycler is able to handle a bike going slow. On the other end, going fast is scary and is also quite likely to crush. You will have a chance though. NEVER drive slowly your bike. It's garantee failure.
 
-Usually, this "bike" its not driven by only one pilot. On the contrary, its by two: The archetipical CEO and its corresponding CTO. We will analyse this case first, as is the most common in the 21st century, although there are more options [Check founders chapter, (to be written and linked)].
+Usually, this "bike" its not driven by only one pilot. On the contrary, its by two: The archetipical CEO and its corresponding CTO. We will analyse this case first, as is the most common in the 21st century, although there are more options—see [Founders](#founders) *(planned)*.
 
 So, how can a Bike on a hill be driven by two guys? Should they aim for the same like lovers that always agree? Or, on the contrary, are the enemys at war? 
 
@@ -29,10 +28,11 @@ The perfect team works like a beautiful rally car on full speed to win the race.
 
 PD: Obviously, this two figures should be in the abstract, not in the concrete. If you are a solo founder, think of it as two forces inside you. The same for teams of three.You could even be the CTO and work at heart as the accelerar. Etc. 
 
-### Chapter 2
-## CEO double click. Agility?
+## Chapter 2
 
-So, as its clear on Chapter one [link to it] a CEO should try to move fast. But, what does that even mean?
+### CEO double click. Agility?
+
+So, as is clear in [Chapter 1](#chapter-1), a CEO should try to move fast. But, what does that even mean?
 
 I could send an empty email in like 2 seconds. Is that good? is it bad? I dont know. Is not clear. First, we need to define a previous concept: Vision.
 
@@ -46,19 +46,20 @@ What you want to maximize is: the speed of the rowers and the aligment between t
 
 This new quantity, we will call it from now on: Agility. (If someone has a better name I am open to it. I am considering impact too or Impact on the goal)
 
-### Chapter 3
-## Agility's worst enemy: Democracy.
+## Chapter 3
+
+### Agility's worst enemy: Democracy.
 
 Imagine you own a factory. And a client wants a 10% discount. Should you stop all the factory lines to ask everyone on everyline what should we do about it? Or, even further, after they give their opinion about the subject, should we all talk about it untill we have a full concensus?
 
 Parlaments are slow. And they are for design. They cannot be fast, they will never be. Even if you had the full roaster of F1 drivers up there it will still take years for them to aprove a law of cibersecurity. Lets avoid parlaments shall we? I rather take random decisions than a parlament. Because then, at least I know we will do SOMETHING about the fire in the house. Do you think you dont have a fire in the house? You are a founder bro, you always will.
 
-## What about Dictatorship?
+### What about Dictatorship?
 
 So, what about we always do exactly what the founder wants? 
 That is actually slightly better. Until you have a team that is not tiny. Would you ask the CEO of Google if we should repaint the parking lot of the Munich offices? Because the wall's paint is slightly old. Probably not, he may be busy a with a few more urgent topics right? That is a decision a different person should take. 
 
-## Your single most scarse resourse: You.
+### Your single most scarse resourse: You.
 
 The single most valuable resource in every start-up is not its funding, dev team, marketing outbound or prestiege.
 
@@ -67,13 +68,13 @@ If a gene can give you only one wish and you choose to have all the funding in t
 
 This proves a core idea, there is nothing more scarse in your project than your self, your attention, your speed to take decisions and execute them. The perfect wish would be to change today 24 hours for a 24000 hour day with full attention on the project. And I garantee you, all your problems would be solved.
 
-## The problem of the dictator
+### The problem of the dictator
 
 Your company is like a Cerberus of problems. Every single time you solve a problem 3 new ones will arrive. If you improve your operations, now your mareting is the bottle neck, when that is solve you sales culture becomes trash, when you tackle that your product is the new issue, this process is infinite.
 
 If you are a dictator, and everyone in the company needs your brain to take decisions you will never scale. never. not in a million years. The Dictatorship approach will never work because you can only solve 2 maybe 3 issueas a day. Not 10 nor 20. Bigger companies can produce 100 issueas an hour. Good luck with that.
 
-## The solutions to agility: Army (better than dictatorship).
+### The solutions to agility: Army (better than dictatorship).
 
 In my opinion one solution is raw hierarchy with full ownership (this is another important concept btw). An army has clearly defined levels of command, and everly level should interct mostly with their own level, the one bellow and the one on top.
 
@@ -83,15 +84,29 @@ If for somereason a captain does not do his job. The general will instantly puni
 
 [diagram of only vertical information]
 
-## The solutions to agility: Culture (better than democracy).
+### The solutions to agility: Culture (better than democracy).
 
 Another solution is to have a less veritical approach. Where everyone does whatever they want. But, how can they know what they have to do? or when? or how?
 
-They dont.
+They don't.
 
 They have to figure out that themseves.
 
-Think of a graphite pencil. Would you be able to create such product on your own?
+Think of a pencil. Would you be able to create such product on your own?
+
+o single person in the world knows how to make a pencil.
+
+A pencil looks trivial: wood, graphite, a bit of rubber, some paint. But when you stop and trace its origins, it becomes astonishingly complex. The wood may come from trees cut down in one part of the world, using saws made of steel forged elsewhere. The graphite is mined, processed, and mixed with clay through techniques that require specialized knowledge. The rubber might originate from plantations in Southeast Asia. The metal band, the glue, the lacquer—all of it involves different materials, different processes, and different people spread across continents.
+
+No one person oversees all of this. No central authority possesses all the knowledge required to coordinate every step. And yet, somehow, pencils are produced in massive quantities and sold for almost nothing.
+
+https://www.youtube.com/watch?v=67tHtpac5ws
+
 
 ## Chapter 8
-## How to put names
+
+### How to put names
+
+## Founders
+
+*(Planned — not yet written.)*
