@@ -71,7 +71,7 @@ To a reasonable man, these decisions are indefensible. They violate expected val
 
 That is precisely the point.
 
-Alexander was not optimizing within the system. He behaved as if the system did not apply to him. Maybe Olympias did convince him he was the son of Zeus. Was is true though? Does not mateter. Alexander behaved as if it were and in doing so, he bent reality around that assumption. He took a myth and enforced it, decision by decision, battle by battle, until the world had no choice but to reflect it back.
+Alexander was not optimizing within the system. He behaved as if the system did not apply to him. Maybe Olympias did convince him he was the son of Zeus. Was that true though? Does not matter. Alexander behaved as if it was and in doing so, he bent reality around that assumption. He took a myth and enforced it, decision by decision, battle by battle, until the world had no choice but to reflect it back.
 
 No one gave Alexander his divinity.
 
